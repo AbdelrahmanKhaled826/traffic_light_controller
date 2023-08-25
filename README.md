@@ -2,6 +2,10 @@
 
 the traffic light of two streets which street A is the main .
 
+
+![image](https://github.com/AbdelrahmanKhaled826/traffic_light_controller/assets/66374409/fcfe4bc0-182a-4bc1-91bb-1d317bfd7b70)
+
+
 # I have four cases  
 
 red a green b
